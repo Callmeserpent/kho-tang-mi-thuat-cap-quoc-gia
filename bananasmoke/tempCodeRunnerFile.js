@@ -1,0 +1,1 @@
+uongChain.chain[1].data = { from: 'duong', to: 'duyen', amount: 50 }
